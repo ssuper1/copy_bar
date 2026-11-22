@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="page_background">#F3F5F2</color>
+    <color name="page_surface">#FFFFFF</color>
+    <color name="page_preview">#F0F5F1</color>
+    <color name="page_border">#DFE7E0</color>
+    <color name="page_ink">#1C3028</color>
+    <color name="page_muted">#617068</color>
+    <color name="page_accent">#356B52</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

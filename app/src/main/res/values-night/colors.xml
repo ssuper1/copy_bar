@@ -1,0 +1,9 @@
+<resources>
+    <color name="page_background">#111815</color>
+    <color name="page_surface">#1B2520</color>
+    <color name="page_preview">#14251C</color>
+    <color name="page_border">#34473C</color>
+    <color name="page_ink">#E1ECE3</color>
+    <color name="page_muted">#A6BAAC</color>
+    <color name="page_accent">#9FD4B3</color>
+</resources>
